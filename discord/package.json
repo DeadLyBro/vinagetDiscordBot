@@ -1,0 +1,42 @@
+{
+  "//1": "SinnerClownCeviri.com!",
+  "//2": "https://docs.npmjs.com/files/package.json",
+  "//3": "SinnerClownCeviri.com!",
+  "name": "hello-express",
+  "version": "0.0.1",
+  "description": "Glitch Discord Botu.",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "figlet": "^1.5.0",
+	"quick.db": "^6.3.2",
+	"ytdl-core": "^1.0.4",
+    "moment": "^2.29.1",
+	"@discordjs/opus": "^0.3.3",
+    "discord-player": "^3.2.0",  
+    "ffmpeg-static": "^4.2.7",   
+	"ffmpeg": "0.0.4",
+    "fluent-ffmpeg": "^2.1.2",
+    "opusscript": "0.0.6",
+    "moment-duration-format": "^2.3.2",
+	 "http": "^0.0.0",
+    "fs": "^0.0.2",
+    "node-opus": "^0.3.3"
+
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/hello-express"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
