@@ -1,5 +1,7 @@
 # vinagetDiscordBot
-Vinaget Sunucusu  Discord Botu,
+Vinaget Sunucusu  Discord Botu
+![Önizleme](qm076sj.png)
+
 <br>
 Bilgisayarınıza Node.js i yükleyin ve ardından 
 <br>
